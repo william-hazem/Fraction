@@ -2,15 +2,14 @@
 Treat a floating number in it fraction form. Avoid some floating calculation errors.
 
 ## How do you use this source?
+It's simple. You only need to copy this repository in your project folder.
 **Fractions** are represented by **Real class**.
-
-You only need to copy this repository in your project folder.
 
 ![alt text](https://github.com/Willh-AM/Imagens/blob/master/Fraction/Fraction_Include.png "Logo Title Text 1")
 
 ## How to use the Real.h?
 The Real class have four constructos:
-1. empty constyctor;
+1. empty constructor;
 2. initialize constructor by two integers  (numerator and denominator respectively);
 3. initialize constructor by a float number;
 
